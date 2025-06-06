@@ -1,0 +1,37 @@
+# Eclipse specific
+.project
+.classpath
+.settings/
+
+# Maven target folder
+target/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.iml
+*.ipr
+*.iws
+
+# IntelliJ files (just in case)
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Selenium / WebDriver related files
+chromedriver*
+
+# Environment files
+.env
+
+# Maven Wrapper files if you don’t use them
+.mvn/wrapper/maven-wrapper.jar
+
+# Others you might add later, like reports
